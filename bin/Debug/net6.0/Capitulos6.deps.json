@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Capitulos6/1.0.0": {
+        "runtime": {
+          "Capitulos6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capitulos6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

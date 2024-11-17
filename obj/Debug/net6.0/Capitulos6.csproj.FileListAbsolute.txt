@@ -1,0 +1,14 @@
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net6.0\Capitulos6.exe
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net6.0\Capitulos6.deps.json
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net6.0\Capitulos6.runtimeconfig.json
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net6.0\Capitulos6.dll
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net6.0\Capitulos6.pdb
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.GeneratedMSBuildEditorConfig.editorconfig
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.AssemblyInfoInputs.cache
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.AssemblyInfo.cs
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.csproj.CoreCompileInputs.cache
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.dll
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\refint\Capitulos6.dll
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.pdb
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\Capitulos6.genruntimeconfig.cache
+d:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net6.0\ref\Capitulos6.dll

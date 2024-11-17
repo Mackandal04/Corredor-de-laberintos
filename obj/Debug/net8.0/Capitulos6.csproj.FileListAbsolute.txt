@@ -1,0 +1,33 @@
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net8.0\Capitulos6.exe
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net8.0\Capitulos6.deps.json
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net8.0\Capitulos6.runtimeconfig.json
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net8.0\Capitulos6.dll
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\bin\Debug\net8.0\Capitulos6.pdb
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.AssemblyInfoInputs.cache
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.AssemblyInfo.cs
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.csproj.CoreCompileInputs.cache
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.dll
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\refint\Capitulos6.dll
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.pdb
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\Capitulos6.genruntimeconfig.cache
+D:\01 Ciencias de la computación\Ciencias de la Computacion\programacion_C#\Capitulos6\obj\Debug\net8.0\ref\Capitulos6.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.AssemblyInfoInputs.cache
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.AssemblyInfo.cs
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.csproj.CoreCompileInputs.cache
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\refint\Capitulos6.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.pdb
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Capitulos6.exe
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Capitulos6.deps.json
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Capitulos6.runtimeconfig.json
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Capitulos6.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Capitulos6.pdb
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.genruntimeconfig.cache
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\ref\Capitulos6.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Spectre.Console.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.csproj.AssemblyReference.cache
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\obj\Debug\net8.0\Capitulos6.csproj.CopyComplete
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\1. Primer Año\Programación\Proyectos\Repitencia 1ro\Proyecto CorredorDeLaberintos\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll

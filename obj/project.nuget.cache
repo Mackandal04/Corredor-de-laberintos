@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBFyWMwL8oArzYHO5TsRv1leQ5DK3kURObt1SysFRb6zDzynVI/jt5cPQd/NIHij3cQTuh/khU4xMrCs5RkYkQ==",
+  "success": true,
+  "projectFilePath": "D:\\1. Primer Año\\Programación\\Proyectos\\Repitencia 1ro\\Proyecto CorredorDeLaberintos\\Capitulos6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAURICIO\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "C:\\Users\\MAURICIO\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\MAURICIO\\.nuget\\packages\\spectre.console.imagesharp\\0.49.1\\spectre.console.imagesharp.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
